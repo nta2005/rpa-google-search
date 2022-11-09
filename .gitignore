@@ -1,0 +1,14 @@
+.entities
+.local
+.objects
+.project
+.settings
+.templates
+.tmh
+
+Data/Input/**
+Data/Log/**
+Data/Output/**
+Data/Temp/**
+
+Test.xaml
